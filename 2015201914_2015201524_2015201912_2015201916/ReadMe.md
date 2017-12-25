@@ -4,9 +4,11 @@
 ## 展示报告：
 ### [第一次展示报告地址](https://github.com/KunlinY/ai-project-2017/blob/master/2015201914_2015201524_2015201912_2015201916/1st%20Presentation/2015201914.md)
 ### [第二次展示报告地址](https://github.com/KunlinY/ai-project-2017/blob/master/2015201914_2015201524_2015201912_2015201916/2nd%20Presentation/2015201914_2015201916.md)
+### [第三次展示报告地址](https://github.com/KunlinY/ai-project-2017/blob/master/2015201914_2015201524_2015201912_2015201916/3rd%20Presentation/ReadMe.md)
 ## 展示ppt与视频
 ### [第一次展示文件地址](https://github.com/KunlinY/AICar/tree/master/1st%20Presentation)
 ### [第二次展示文件地址](https://github.com/KunlinY/AICar/tree/master/2nd%20Presentation)
+### [第三次展示文件地址](https://github.com/KunlinY/AICar/tree/master/3rd%20Presentation)
 ###
 ## 目前实现功能
 ### 随机游走
